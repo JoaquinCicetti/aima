@@ -1,0 +1,22 @@
+@import "./fonts/Montserrat/Montserrat-Regular.ttf";
+
+@font-face {
+  font-family: "Monserrat-Regular";
+  src: local("Monserrat-Regular"),
+    url(./fonts/Montserrat/Montserrat-Regular.ttf) format("truetype");
+}
+body {
+    margin: auto;
+    overflow-y: hidden;
+
+    & * {
+        font-family: 'Monserrat-Regular', source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+    }
+}
+a,
+button,
+input,
+label {
+    //  background on touch in mobile
+    -webkit-tap-highlight-color: transparent;
+}

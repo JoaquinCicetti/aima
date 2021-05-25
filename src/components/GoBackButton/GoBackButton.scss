@@ -1,0 +1,30 @@
+@import '../../themify.scss';
+@import '../../theme.scss';
+
+.goBack {
+    width: fit-content;
+    height: fit-content;
+    padding: 0.5em;
+    background: #e8e8e8;
+    border-radius: 50%;
+    margin: auto;
+    border: none;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+
+    &:hover {
+        @include themify($themes) {
+            background-color: themed('shadowColor');
+        }
+    }
+
+    &:active,
+    &:focus {
+        outline: none;
+    }
+}
+
+.goBack.big {
+    padding: 1em;
+}
