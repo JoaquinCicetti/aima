@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aima/static/css/main.de223451.chunk.css",
+    "main.js": "/aima/static/js/main.23e8afa5.chunk.js",
+    "main.js.map": "/aima/static/js/main.23e8afa5.chunk.js.map",
+    "runtime-main.js": "/aima/static/js/runtime-main.6487b3e5.js",
+    "runtime-main.js.map": "/aima/static/js/runtime-main.6487b3e5.js.map",
+    "static/js/2.0851d7aa.chunk.js": "/aima/static/js/2.0851d7aa.chunk.js",
+    "static/js/2.0851d7aa.chunk.js.map": "/aima/static/js/2.0851d7aa.chunk.js.map",
+    "index.html": "/aima/index.html",
+    "precache-manifest.7cc18adb839f82d352c17908142b58d8.js": "/aima/precache-manifest.7cc18adb839f82d352c17908142b58d8.js",
+    "service-worker.js": "/aima/service-worker.js",
+    "static/css/main.de223451.chunk.css.map": "/aima/static/css/main.de223451.chunk.css.map",
+    "static/media/index.scss": "/aima/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/aati-logo.png": "/aima/static/media/aati-logo.2a05bbfe.png",
+    "static/media/aima.png": "/aima/static/media/aima.e75f26b7.png",
+    "static/media/paula.png": "/aima/static/media/paula.05901657.png",
+    "static/media/rosario.png": "/aima/static/media/rosario.71c29a43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6487b3e5.js",
+    "static/js/2.0851d7aa.chunk.js",
+    "static/css/main.de223451.chunk.css",
+    "static/js/main.23e8afa5.chunk.js"
+  ]
+}
